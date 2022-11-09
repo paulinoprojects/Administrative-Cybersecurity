@@ -1,0 +1,17 @@
+# Security Intelligence
+- <b> Reqirements (Planning & Direction) </b> - The requirements phase sets out the goals for the intelligence gathering effort.
+    
+- <b> Collections (& Process) </b> - The collection process is implemented by software tools, such as SIEMs, and then processed for later analysis.
+  
+- <b> Analysis </b> - The analysis is performed against the given use cases from the planning phase and may utilize automated analysis, artificial intelligence, and machine learning.
+
+- <b> Dissemination </b> - The dissemination phase refers to publishing information produced by analysis to consumers who need to act on the insights developed: Strategic, Operational, Tactical.
+
+- <b> Feedback </b> - The phase that aims to clarify requirements and improve the collection, analysis, and dissemination of information by reviewing current inputs and outputs: Lessons learned. Measurable success, Evolving threat issues.
+
+# Intelligence Sources
+- You must consider the sources of your intelligence
+- <b>Timeliness</b>: Property of an intelligence source that ensures it is up-to-date
+- <b>Relevancy</b>: Property of an intelligence source that ensures it matches the use cases intended for it
+- <b>Accuracy</b>: Property of an intelligence source that ensures it produces effective results
+- <b>Confidence Levels</b>: Property of an intelligence source that ensures it produces qualified statements about reliability
